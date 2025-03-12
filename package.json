@@ -1,0 +1,25 @@
+{
+  "name": "learn-tailwind",
+  "version": "1.0.0",
+  "description": "Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahKhaledAhmed/Learn-Tailwind.git"
+  },
+  "author": "Abdallah Khaled",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbdallahKhaledAhmed/Learn-Tailwind/issues"
+  },
+  "homepage": "https://github.com/AbdallahKhaledAhmed/Learn-Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.0.13"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.13"
+  }
+}
