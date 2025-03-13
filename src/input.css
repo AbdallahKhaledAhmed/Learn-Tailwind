@@ -1,1 +1,11 @@
 @import "tailwindcss";
+@theme {
+  --color-primary: #ff3333;
+  --color-secondary-100: #9dc3ff;
+  --color-secondary-200: #5b9aff;
+  --font-roboto: "Roboto", sans-serif;
+}
+
+.badge {
+  @apply absolute top-3 left-3 text-amber-300 font-bold bg-gray-700/70 py-1 px-3 rounded-full;
+}
